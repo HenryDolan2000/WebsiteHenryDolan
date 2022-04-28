@@ -1,0 +1,97 @@
+body {
+    font-family: "Helvetica";
+  background-image: url("millbrook6-resized.jpeg");
+    
+    
+}
+
+body {
+    
+    background-image: url("millbrook6-resized.jpeg");
+    
+}
+
+
+p {
+    font-size: 40px;
+    color: black;
+}
+.text-size {
+    font-size: 2rem;
+}
+footer {
+    
+
+    
+    
+}
+footer a {
+    
+}
+footer a:hover {
+    
+}
+li {
+    
+}
+
+
+a {
+    padding: 0.5rem 1rem;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    border-radius: 12px
+}
+
+.logo{position: absolute;
+    top: 0px;
+    right:0px;
+    
+    width: 6rem
+        
+}
+
+.button 
+{
+    float: ;
+}
+
+
+body {
+background-color: #DBF9FC;
+}
+
+<table style="background-color:#33475b">
+
+div.scroll {
+  background-color: #fed9ff;
+  width: 600px;
+  height: 150px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+
+<img src="LogoS.jpg"/>
+img {
+position: absolute;
+top: 0px;
+right: 0px;
+}
+.TXT{
+    
+    font-size: 1.2rem;
+    
+}
+
+.TEXT{
+    position: absolute;
+    margin-left: 50px;
+    text-align: left;
+    
+    
+    
+}
